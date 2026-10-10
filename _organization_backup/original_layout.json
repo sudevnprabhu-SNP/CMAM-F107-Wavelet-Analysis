@@ -1,0 +1,74 @@
+[
+  {
+    "name": ".DS_Store",
+    "type": "file"
+  },
+  {
+    "name": "requirements.txt",
+    "type": "file"
+  },
+  {
+    "name": "test",
+    "type": "directory"
+  },
+  {
+    "name": "prepare_f107.py",
+    "type": "file"
+  },
+  {
+    "name": "wave_python",
+    "type": "directory"
+  },
+  {
+    "name": "04d_f107_wavelet.py",
+    "type": "file"
+  },
+  {
+    "name": "organize_project.py",
+    "type": "file"
+  },
+  {
+    "name": "README.md",
+    "type": "file"
+  },
+  {
+    "name": "01_temperature_perturbation.py",
+    "type": "file"
+  },
+  {
+    "name": "results",
+    "type": "directory"
+  },
+  {
+    "name": "04a_f107_wavelet.py",
+    "type": "file"
+  },
+  {
+    "name": "03_compare_temperature_f107.py",
+    "type": "file"
+  },
+  {
+    "name": "04e_3d_wavelet_comparison.py",
+    "type": "file"
+  },
+  {
+    "name": "04b_temperature_wavelet.py",
+    "type": "file"
+  },
+  {
+    "name": "02_prepare_monthly_series.py",
+    "type": "file"
+  },
+  {
+    "name": "04c_global_spectrum_comparison.py",
+    "type": "file"
+  },
+  {
+    "name": "data",
+    "type": "directory"
+  },
+  {
+    "name": "prepare_temperature.py",
+    "type": "file"
+  }
+]
