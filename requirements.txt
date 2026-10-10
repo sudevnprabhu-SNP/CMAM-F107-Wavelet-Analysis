@@ -1,0 +1,14 @@
+# Core scientific Python dependencies
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+xarray>=2023.1
+netCDF4>=1.6
+cftime>=1.6
+scipy>=1.10
+jupyterlab>=4.0
+ipykernel>=6.25
+
+# Note:
+# waveletFunctions.py is included locally under wave_python/ and is not
+# installed as a PyPI package by this requirements file.
