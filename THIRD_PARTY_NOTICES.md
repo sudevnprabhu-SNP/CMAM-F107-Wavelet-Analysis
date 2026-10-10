@@ -1,23 +1,31 @@
 # Third-Party Notices
 
-## Torrence–Compo Wavelet Software
+This repository may include third-party scientific software and externally sourced datasets. Their original terms apply independently of the license for the project's original materials.
 
-This repository includes wavelet-analysis code in `wave_python/` based on the Torrence–Compo wavelet software and its Python implementation.
+## Wavelet implementation (`wave_python/`)
 
-The upstream software's notice states that it may be used, copied, or redistributed provided it is not sold and the copyright notice is reproduced on each copy. Preserve the original copyright and attribution notices in the included source files and verify the applicable terms against the exact upstream version used.
+The project includes wavelet-analysis routines in `wave_python/`. Before redistributing or modifying them, inspect the copyright headers and license terms in the exact files included in this repository. Preserve all existing copyright and attribution notices.
 
-Upstream reference:
-https://github.com/ct6502/wavelets
+The scientific method is associated with:
 
-Suggested acknowledgement for publications using the Python implementation:
+Torrence, C. and G. P. Compo (1998), “A Practical Guide to Wavelet Analysis,” *Bulletin of the American Meteorological Society*, 79, 61–78.
 
-"Python wavelet software provided by Evgeniya Predybaylo based on Torrence and Compo (1998) and is available at http://atoc.colorado.edu/research/wavelets/"
+Method reference: https://paos.colorado.edu/research/wavelets/
 
-Reference:
-Torrence, C. and G. P. Compo (1998), A Practical Guide to Wavelet Analysis, *Bulletin of the American Meteorological Society*, 79, 61–78.
+Do not assume the root project license replaces the license of the included implementation. If the included files were copied or adapted from a specific public repository, identify that exact upstream source and its applicable license here before final publication.
 
-## Scientific Data
+## CMAM model data
 
-The CMAM model data and solar F10.7 data are external scientific datasets. Their use, redistribution, and attribution are governed by the respective providers' terms. See the main README for data-source information.
+CMAM data are downloaded from the Canadian Centre for Climate Modelling and Analysis data portal:
 
-The project license does not override third-party software licenses or dataset terms.
+https://climate-modelling.canada.ca/climatemodeldata/cmam/output/CMAM-Ext/CMAM30-SD/6hr/atmos/ta/index.shtml
+
+The dataset remains subject to the provider's access and usage terms. This repository does not relicense the CMAM data.
+
+## Solar F10.7 data
+
+The F10.7 series is an external dataset. Consult the metadata accompanying the downloaded data to identify the exact provider, source record, and reuse terms. This repository does not relicense that dataset.
+
+## Maintainer action before release
+
+Confirm the exact source and license of every file in `wave_python/`, retain the upstream copyright header, and update this notice with the verified upstream URL and license. Confirm the F10.7 source metadata and citation as well.

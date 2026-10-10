@@ -2,6 +2,28 @@ MIT License
 
 Copyright (c) 2026 Sudev N Prabhu
 
-Permission is granted under the MIT License for the original source code and documentation authored for the CMAM-F107-Wavelet-Analysis project, excluding third-party materials and datasets identified in THIRD_PARTY_NOTICES.md.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the original source code and documentation authored by Sudev N Prabhu for
+the CMAM-F107-Wavelet-Analysis project (the "Original Project Materials"), to
+deal in the Original Project Materials without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Original Project Materials, and to permit
+persons to whom the Original Project Materials are furnished to do so, subject
+to the following conditions:
 
-Third-party software and datasets remain subject to their respective licenses, copyright notices, and terms of use.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Original Project Materials.
+
+THE ORIGINAL PROJECT MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE ORIGINAL PROJECT MATERIALS OR
+THE USE OR OTHER DEALINGS IN THE ORIGINAL PROJECT MATERIALS.
+
+EXCLUSIONS: This license does not grant rights to third-party software, source
+files, datasets, or other materials identified in THIRD_PARTY_NOTICES.md or
+bearing their own license/copyright notices. Those materials remain subject to
+their respective terms. In case of any conflict, the applicable third-party
+terms govern those materials.
